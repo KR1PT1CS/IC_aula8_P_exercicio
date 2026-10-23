@@ -1,8 +1,8 @@
 # Dados do Aluno
 
-- **Nome:**  
-- **Número:**  
-- **Turma:**  
+- **Nome:**  *João Ferreira*
+- **Número:**  *a22403479*
+- **Turma:**  *3ºano*
 
 ---
 
